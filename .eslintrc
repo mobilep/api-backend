@@ -1,0 +1,12 @@
+{
+  "env": {
+    "mocha": true,
+    "node": true,
+    "es6": true
+  },
+  "extends": "standard",
+  "globals": {
+    "utils": true,
+    "i18n": true
+  }
+}

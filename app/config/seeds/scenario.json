@@ -1,0 +1,42 @@
+{
+  "model": "models/scenario.model",
+  "collection": "scenarios",
+  "data": [
+    {
+      "_id": "574e3a50616165b0b8b55111",
+      "name": "Demo Scenario",
+      "info": "This demo Scenario is designed to introduce you to key product features.",
+      "_company": "57fe2450916165b0b8b20aaa",
+      "_coach": "57fe2450916165b0b8b20111",
+      "videoId": "EN",
+      "videoOrientation": "landscape",
+      "duration": 34,
+      "size": 394913852,
+      "steps": [
+        "Prepare short personal introduction",
+        "Record your introduction",
+        "Evaluate this scenario"
+      ],
+      "_criterias": ["593f7d5907e94106bdf393a5"],
+      "type": "current"
+    },
+    {
+      "_id": "574e3a50616165b0b8b55222",
+      "name": "Scénario Test",
+      "info": "Ce scénario de démonstration permet de se familiariser avec l’outil.",
+      "_company": "57fe2450916165b0b8b20aaa",
+      "_coach": "57fe2450916165b0b8b20111",
+      "videoId": "FR",
+      "videoOrientation": "portrait",
+      "duration": 41,
+      "size": 81172279,
+      "steps": [
+        "Préparez une courte présentation personnelle",
+        "Enregistrez votre présentation",
+        "Taper sur « utiliser » et attendez le retour"
+      ],
+      "_criterias": ["594f7d5907e94106bdf393a5"],
+      "type": "current"
+    }
+  ]
+}

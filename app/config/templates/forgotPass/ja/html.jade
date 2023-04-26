@@ -1,0 +1,37 @@
+table.body-wrap
+    tr
+        td
+        td.container
+            .content
+                table
+                    tr
+                        td
+                            p いらっしゃいませ。,
+                            p こんにちは。モバイルプラクティスのアカウントのパスワード再設定のリクエストがありましたため、このEメールをお送りしています。再設定のリクエストをされていない場合、このEメールを無視してください。
+                            p 新しいパスワードを設定するために、以下のリンクをクリックしてください：
+                    tr
+                        td(align="center")
+                            a(href='#{link}' target='_blank' style='margin: 0;\n' +
+                            '    padding: 0;\n' +
+                            '    background-color: #f3423c;\n' +
+                            '    border-radius: 5px;\n' +
+                            '    color: #ffffff;\n' +
+                            '    display: inline-block;\n' +
+                            '    font-family: sans-serif;\n' +
+                            '    font-size: 13px;\n' +
+                            '    font-weight: bold;\n' +
+                            '    line-height: 40px;\n' +
+                            '    text-align: center;\n' +
+                            '    text-decoration: none;\n' +
+                            '    width: 350px;\n' +
+                            '    -webkit-text-size-adjust: none;'
+                            )
+                                | 新しいパスワードを作成する
+                            br
+                    tr
+                        td
+                            br
+                            p ありがとうございます,
+                            p モバイルプラクティスのチーム
+                            a(href='#{web}' , target='_blank')
+                                | #{web}

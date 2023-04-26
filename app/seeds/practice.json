@@ -1,0 +1,24 @@
+{
+  "model": "models/practice.model",
+  "collection": "practices",
+  "data": [
+    {
+      "_id": "59513f2d48cd027d92bc2301",
+      "_coach": "57fe2450916165b0b8b21111",
+      "_scenario": "574e3a50616165b0b8b55555",
+      "_user": "57fe2450916165b0b8b21112",
+      "_userInbox": "595f7e3f3f4f98de237151e8",
+      "_coachInbox": "595f7e3f3f4f98de237140e8",
+      "status": "current"
+    },
+    {
+      "_id": "59513f2d48cd027d92bc2302",
+      "_coach": "57fe2450916165b0b8b21111",
+      "_scenario": "574e3a50616165b0b8b55555",
+      "_user": "57fe2450916165b0b8b21113",
+      "_userInbox": "595f7e3f3f4f98de237131e8",
+      "_coachInbox": "595f7e3f3f4f98de237130e8",
+      "status": "current"
+    }
+  ]
+}

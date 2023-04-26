@@ -1,0 +1,37 @@
+table.body-wrap
+    tr
+        td
+        td.container
+            .content
+                table
+                    tr
+                        td
+                            p Здравствуйте,
+                            p Вы получаете это письмо, потому что запросили смену пароля для своей учетной записи Mobile Practice. Если вы не запрашивали это изменение, вы можете смело игнорировать это письмо.
+                            p Чтобы выбрать новый пароль и завершить запрос, пожалуйста, перейдите по ссылке ниже:
+                    tr
+                        td(align="center")
+                            a(href='#{link}' target='_blank' style='margin: 0;\n' +
+                            '    padding: 0;\n' +
+                            '    background-color: #f3423c;\n' +
+                            '    border-radius: 5px;\n' +
+                            '    color: #ffffff;\n' +
+                            '    display: inline-block;\n' +
+                            '    font-family: sans-serif;\n' +
+                            '    font-size: 13px;\n' +
+                            '    font-weight: bold;\n' +
+                            '    line-height: 40px;\n' +
+                            '    text-align: center;\n' +
+                            '    text-decoration: none;\n' +
+                            '    width: 350px;\n' +
+                            '    -webkit-text-size-adjust: none;'
+                            )
+                                | Создать новый пароль
+                            br
+                    tr
+                        td
+                            br
+                            p Спасибо,
+                            p Команда Mobile Practice
+                            a(href='#{web}' , target='_blank')
+                                | #{web}

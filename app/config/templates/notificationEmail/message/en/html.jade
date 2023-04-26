@@ -1,0 +1,40 @@
+html(xmlns="http://www.w3.org/1999/xhtml", xmlns:v="urn:schemas-microsoft-com:vml", xmlns:o="urn:schemas-microsoft-com:office:office", xmlns:w="urn:schemas-microsoft-com:office:word")
+    head !{head}
+
+    body(bgcolor='#ffffff')
+        table.body-wrap(width='100%', cellpadding='0', cellspacing='0', border='0')
+            tr
+                td.container(align='center')
+                        table.email(width='100%', cellpadding='0', cellspacing='0', border='0')
+                            tr
+                                td.logo(valign='middle')
+                                    <img style="width: 38px; height: 38px; margin: 0px; padding: 0px;" alt="" width="38" height="38" src="https://files.mobilepractice.io/images/favicon/android-icon-192x192.png" />
+                            tr 
+                                td(width='100%', height='20px')
+                            tr
+                                td.title(valign='top')
+                                    p Hi #{userFirstName},
+                                    p !{titleText}
+                            tr 
+                                td(width='100%', height='10px')
+                                    
+                            tr
+                                td.content(valign='top')
+                                    table(width='100%', cellpadding='0', cellspacing='0', border='0')
+                                        tr
+                                            td#title !{contentTitle}
+                                        tr 
+                                            td(width='100%', height='20px')
+                                        tr(valign='center')
+                                            td
+                                                table(width='100%', cellpadding='0', cellspacing='0', border='0')
+                                                    tr !{avatar}
+                                                        td(style='padding-left: 10px')
+                                                            b #{message}
+                                        tr 
+                                            td(width='100%', height='20px')
+                                        tr
+                                            td(align='center')
+                                                table(border='0', cellspacing='0', cellpadding='0')
+                                                    tr
+                                                        td !{botton}

@@ -1,0 +1,34 @@
+{
+  "model": "models/team.model",
+  "collection": "teams",
+  "data": [
+    {
+      "_id": "588079f49b81d0648ec3b000",
+      "name": "team1",
+      "_owner": "57fe2450916165b0b8b21111",
+      "_users": ["57fe2450916165b0b8b21111", "57fe2450916165b0b8b21112"],
+      "_company": "57fe2450916165b0b8b20111"
+    },
+    {
+      "_id": "588079f49b81d0648ec3b001",
+      "name": "team2",
+      "_owner": "57fe2450916165b0b8b21111",
+      "_users": ["57fe2450916165b0b8b21111", "57fe2450916165b0b8b21112"],
+      "_company": "57fe2450916165b0b8b20111"
+    },
+    {
+      "_id": "588079f49b81d0648ec3b002",
+      "name": "Existing team",
+      "_owner": "57fe2450916165b0b8b21111",
+      "_users": ["57fe2450916165b0b8b21111", "57fe2450916165b0b8b21112"],
+      "_company": "57fe2450916165b0b8b20111"
+    },
+    {
+      "_id": "588079f49b81d0648ec3b003",
+      "name": "Existing team",
+      "_owner": "57fe2450916165b0b8b21112",
+      "_users": [],
+      "_company": "57fe2450916165b0b8b20112"
+    }
+  ]
+}

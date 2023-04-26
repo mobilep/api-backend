@@ -1,0 +1,37 @@
+table.body-wrap
+    tr
+        td
+        td.container
+            .content
+                table
+                    tr
+                        td
+                            p Olá,
+                            p você está recebendo este e-mail porque solicitou uma redefinição de senha para sua conta do Mobile Practice. Se você não solicitou essa alteração, pode ignorar este e-mail com segurança.
+                            p Para escolher uma nova senha e concluir sua solicitação, siga o link abaixo:
+                    tr
+                        td(align="center")
+                            a(href='#{link}' target='_blank' style='margin: 0;\n' +
+                            '    padding: 0;\n' +
+                            '    background-color: #f3423c;\n' +
+                            '    border-radius: 5px;\n' +
+                            '    color: #ffffff;\n' +
+                            '    display: inline-block;\n' +
+                            '    font-family: sans-serif;\n' +
+                            '    font-size: 13px;\n' +
+                            '    font-weight: bold;\n' +
+                            '    line-height: 40px;\n' +
+                            '    text-align: center;\n' +
+                            '    text-decoration: none;\n' +
+                            '    width: 350px;\n' +
+                            '    -webkit-text-size-adjust: none;'
+                            )
+                                | Crie uma nova senha
+                            br
+                    tr
+                        td
+                            br
+                            p Obrigado,
+                            p A equipe Mobile Practice
+                            a(href='#{web}' , target='_blank')
+                                | #{web}

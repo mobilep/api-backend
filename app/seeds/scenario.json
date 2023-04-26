@@ -1,0 +1,71 @@
+{
+  "model": "models/scenario.model",
+  "collection": "scenarios",
+  "data": [
+    {
+      "_id": "574e3a50616165b0b8b55111",
+      "name": "Introduction",
+      "videoId": "72697CD7-00EF-4364-A46B-B329EC35E6E4",
+      "steps": [
+        "step 1",
+        "step 2"
+      ],
+      "_company": "57fe2450916165b0b8b20111",
+      "_coach": "57fe2450916165b0b8b21111"
+    },
+    {
+      "_id": "574e3a50616165b0b8b55222",
+      "name": "Existing scenario",
+      "videoId": "7E8117DB-E9D6-477D-83F5-8B7C31C05615",
+      "steps": [
+        "step 1",
+        "step 2"
+      ],
+      "_company": "57fe2450916165b0b8b20111",
+      "_coach": "57fe2450916165b0b8b21111"
+    },
+    {
+      "_id": "574e3a50616165b0b8b55333",
+      "name": "Existing scenario. Test Edit",
+      "videoId": "7E8117DB-E9D6-477D-83F5-8B7C31C05615",
+      "steps": [
+        "step 1",
+        "step 2"
+      ],
+      "_company": "57fe2450916165b0b8b20111",
+      "_coach": "57fe2450916165b0b8b21111",
+      "groupChat": "https://mobile-practice-dev.firebaseio.com/mpchat/57fe2450916165b0b8b00111"
+    },
+    {
+      "_id": "574e3a50616165b0b8b55444",
+      "name": "Existing scenario. Test Delete",
+      "videoId": "7E8117DB-E9D6-477D-83F5-8B7C31C05615",
+      "steps": [
+        "step 1",
+        "step 2"
+      ],
+      "_company": "57fe2450916165b0b8b20111",
+      "_coach": "57fe2450916165b0b8b21111"
+    },
+    {
+      "_id": "574e3a50616165b0b8b55555",
+      "name": "Existing scenario. Test Practices",
+      "videoId": "7E8117DB-E9D6-477D-83F5-8B7C31C05615",
+      "steps": [
+        "step 1",
+        "step 2"
+      ],
+      "_criterias": [
+        "574e3a50616165b0b8b20111",
+        "574e3a50616165b0b8b20222"
+      ],
+      "_users": [
+        "57fe2450916165b0b8b21112",
+        "57fe2450916165b0b8b21113"
+      ],
+      "_company": "57fe2450916165b0b8b20111",
+      "_coach": "57fe2450916165b0b8b21111",
+      "type": "current"
+    }
+  ]
+}

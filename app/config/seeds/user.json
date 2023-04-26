@@ -1,0 +1,19 @@
+{
+  "model": "models/user.model",
+  "collection": "users",
+  "data": [
+    {
+      "_id": "57fe2450916165b0b8b20111",
+      "firstName": "Jon",
+      "lastName": "Doe",
+      "email": "john.doe@awesome.com",
+      "password": "Qwerty0123",
+      "isCompanyAdmin": true,
+      "isSysAdmin": true,
+      "_company": "57fe2450916165b0b8b20aaa",
+      "country": "France",
+      "postcode": "FR1121",
+      "lang": "en"
+    }
+  ]
+}

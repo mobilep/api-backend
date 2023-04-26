@@ -1,0 +1,14 @@
+node_modules
+apidoc
+coverage
+.idea
+.env
+npm-debug.log
+public/apidoc
+*/.DS_Store
+*/package-lock.json
+.autoload
+.nvmrc
+yarn-error.log
+.vscode
+backupdb

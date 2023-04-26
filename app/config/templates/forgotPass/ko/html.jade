@@ -1,0 +1,37 @@
+table.body-wrap
+    tr
+        td
+        td.container
+            .content
+                table
+                    tr
+                        td
+                            p 안녕하세요!,
+                            p 안녕하세요. 모바일 프랙티스 계정에 대한 비밀번호 재설정 요청에 따라 이메일이 전송되었습니다. 재설정을 요청하지 않으신 경우, 이 메일을 무시하셔도 됩니다.
+                            p 새로운 비밀번호를 입력하여 요청을 완료하시려면, 아래 링크를 따라가세요.
+                    tr
+                        td(align="center")
+                            a(href='#{link}' target='_blank' style='margin: 0;\n' +
+                            '    padding: 0;\n' +
+                            '    background-color: #f3423c;\n' +
+                            '    border-radius: 5px;\n' +
+                            '    color: #ffffff;\n' +
+                            '    display: inline-block;\n' +
+                            '    font-family: sans-serif;\n' +
+                            '    font-size: 13px;\n' +
+                            '    font-weight: bold;\n' +
+                            '    line-height: 40px;\n' +
+                            '    text-align: center;\n' +
+                            '    text-decoration: none;\n' +
+                            '    width: 350px;\n' +
+                            '    -webkit-text-size-adjust: none;'
+                            )
+                                | 새로운 비밀번호 생성
+                            br
+                    tr
+                        td
+                            br
+                            p 감사합니다,
+                            p 모바일 프랙티스 내 팀 소속
+                            a(href='#{web}' , target='_blank')
+                                | #{web}

@@ -1,0 +1,31 @@
+{
+  "model": "models/criteria.model",
+  "collection": "criterias",
+  "data": [
+    {
+      "_id": "590f7d5907e94106bdf393a5",
+      "name": "Evaluate.Rate.Practice.Experience",
+      "_company": null
+    },
+    {
+      "_id": "591f7d5907e94106bdf393a5",
+      "name": "Evaluate.Rate.Pertinent.To.Work",
+      "_company": null
+    },
+    {
+      "_id": "592f7d5907e94106bdf393a5",
+      "name": "Evaluate.Rate.Recommend.To.Others",
+      "_company": null
+    },
+    {
+      "_id": "593f7d5907e94106bdf393a5",
+      "name": "Self introduction",
+      "_company": "57fe2450916165b0b8b20aaa"
+    },
+    {
+      "_id": "594f7d5907e94106bdf393a5",
+      "name": "Qualité du discours",
+      "_company": "57fe2450916165b0b8b20aaa"
+    }
+  ]
+}

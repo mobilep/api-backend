@@ -1,0 +1,37 @@
+table.body-wrap
+    tr
+        td
+        td.container
+            .content
+                table
+                    tr
+                        td
+                            p Hallo,
+                            p Sie erhalten diese E-Mail, weil Sie einen Passwort-Reset für Ihr Mobile Practice-Konto angefordert haben. Wenn Sie diese Änderung nicht angefordert haben, können Sie diese E-Mail ignorieren.
+                            p Um ein neues Passwort zu wählen und Ihre Anfrage abzuschließen, folgen Sie bitte dem unten stehenden Link:
+                    tr
+                        td(align="center")
+                            a(href='#{link}' target='_blank' style='margin: 0;\n' +
+                            '    padding: 0;\n' +
+                            '    background-color: #f3423c;\n' +
+                            '    border-radius: 5px;\n' +
+                            '    color: #ffffff;\n' +
+                            '    display: inline-block;\n' +
+                            '    font-family: sans-serif;\n' +
+                            '    font-size: 13px;\n' +
+                            '    font-weight: bold;\n' +
+                            '    line-height: 40px;\n' +
+                            '    text-align: center;\n' +
+                            '    text-decoration: none;\n' +
+                            '    width: 350px;\n' +
+                            '    -webkit-text-size-adjust: none;'
+                            )
+                                | Neues Passwort erstellen
+                            br
+                    tr
+                        td
+                            br
+                            p Danke,
+                            p Das Team von Mobile Practice
+                            a(href='#{web}' , target='_blank')
+                                | #{web}

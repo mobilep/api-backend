@@ -1,0 +1,10 @@
+{
+  "model": "models/company.model",
+  "collection": "companies",
+  "data": [
+    {
+      "_id": "57fe2450916165b0b8b20aaa",
+      "name": "Demo Scenarios"
+    }
+  ]
+}

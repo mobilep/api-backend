@@ -1,0 +1,34 @@
+{
+  "model": "models/company.model",
+  "collection": "companies",
+  "data": [
+    {
+      "_id": "57fe2450916165b0b8b20aaa",
+      "name": "Techmagic"
+    },
+    {
+      "_id": "57fe2450916165b0b8b20bbb",
+      "name": "Boston"
+    },
+    {
+      "_id": "57fe2450916165b0b8b20ccc",
+      "name": "Company name",
+      "info": "company info"
+    },
+    {
+      "_id": "57fe2450916165b0b8b20ddd",
+      "name": "To delete",
+      "info": "To delete"
+    },
+    {
+      "_id": "57fe2450916165b0b8b20fff",
+      "name": "The company",
+      "info": "The company"
+    },
+    {
+      "_id": "57fe2450916165b0b8b20111",
+      "name": "Test criteria",
+      "info": "The company"
+    }
+  ]
+}

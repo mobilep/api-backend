@@ -1,0 +1,129 @@
+{
+  "model": "models/inbox.model",
+  "collection": "inboxes",
+  "data": [
+    {
+      "_id" : "595f7e3f3f4f98de237119e6",
+      "_recipient" : "595df1bc3ff6dd5f64eb167a",
+      "_user" : "57fe2450916165b0b8b20111",
+      "isActive" : true,
+      "updatedAt" : "2017-07-07T12:31:49.456Z",
+      "__v" : 0,
+      "createdAt" : "2017-07-07T12:27:43.413Z",
+      "message" : {
+        "content" : "Hello, how are you getting on?",
+        "_user" : "57fe2450916165b0b8b20111",
+        "time" : "1499430709345",
+        "type" : "text"
+      },
+      "status": "unread",
+      "inboxId" : "inboxes/57fe2450916165b0b8b20111/595df1bc3ff6dd5f64eb167a/595f7e3f3f4f98de237119e6"
+    },
+    {
+      "_id" : "595f7e3f3f4f98de237119e7",
+      "_recipient" : "595df1bc3ff6dd5f64eb167a",
+      "_user" : "57fe2450916165b0b8b20111",
+      "isActive" : true,
+      "updatedAt" : "2017-07-07T12:31:49.456Z",
+      "__v" : 0,
+      "createdAt" : "2017-07-07T12:27:43.413Z",
+      "message" : {
+        "content" : "Hello, how are you getting on?",
+        "_user" : "57fe2450916165b0b8b20111",
+        "time" : "1499430709345",
+        "type" : "text"
+      },
+      "status": "unread",
+      "inboxId" : "inboxes/57fe2450916165b0b8b20111/595df1bc3ff6dd5f64eb167a/595f7e3f3f4f98de237119e6"
+    },
+    {
+      "_id" : "595f7e3f3f4f98de237119e8",
+      "_recipient" : "595df1bc3ff6dd5f64eb167a",
+      "_user" : "57fe2450916165b0b8b20111",
+      "isActive" : true,
+      "updatedAt" : "2017-07-07T12:31:49.456Z",
+      "__v" : 0,
+      "createdAt" : "2017-07-07T12:27:43.413Z",
+      "message" : {
+        "content" : "Hello, how are you getting on?",
+        "_user" : "57fe2450916165b0b8b20111",
+        "time" : "1499430709345",
+        "type" : "text"
+      },
+      "status": "unread",
+      "inboxId" : "inboxes/57fe2450916165b0b8b20111/595df1bc3ff6dd5f64eb167a/595f7e3f3f4f98de237119e6"
+    },
+    {
+      "_id" : "595f7e3f3f4f98de237130e8",
+      "_recipient" : "57fe2450916165b0b8b21113",
+      "_user" : "57fe2450916165b0b8b20111",
+      "isActive" : true,
+      "type": "practice",
+      "updatedAt" : "2017-07-07T12:31:49.456Z",
+      "__v" : 0,
+      "createdAt" : "2017-07-07T12:27:43.413Z",
+      "message" : {
+        "content" : "Hello, how are you getting on?",
+        "_user" : "57fe2450916165b0b8b20111",
+        "time" : "1499430709345",
+        "type" : "text"
+      },
+      "status": "unread",
+      "inboxId" : "inboxes/57fe2450916165b0b8b20111/595df1bc3ff6dd5f64eb167a/595f7e3f3f4f98de237119e6"
+    },
+    {
+      "_id" : "595f7e3f3f4f98de237131e8",
+      "_recipient" : "57fe2450916165b0b8b20111",
+      "_user" : "57fe2450916165b0b8b21113",
+      "isActive" : true,
+      "type": "practice",
+      "updatedAt" : "2017-07-07T12:31:49.456Z",
+      "__v" : 0,
+      "createdAt" : "2017-07-07T12:27:43.413Z",
+      "message" : {
+        "content" : "Hello, how are you getting on?",
+        "_user" : "57fe2450916165b0b8b20111",
+        "time" : "1499430709345",
+        "type" : "text"
+      },
+      "status": "unread",
+      "inboxId" : "inboxes/57fe2450916165b0b8b20111/595df1bc3ff6dd5f64eb167a/595f7e3f3f4f98de237119e6"
+    },
+    {
+      "_id" : "595f7e3f3f4f98de237140e8",
+      "_recipient" : "57fe2450916165b0b8b21112",
+      "_user" : "57fe2450916165b0b8b20111",
+      "isActive" : true,
+      "type": "practice",
+      "updatedAt" : "2017-07-07T12:31:49.456Z",
+      "__v" : 0,
+      "createdAt" : "2017-07-07T12:27:43.413Z",
+      "message" : {
+        "content" : "Hello, how are you getting on?",
+        "_user" : "57fe2450916165b0b8b20111",
+        "time" : "1499430709345",
+        "type" : "text"
+      },
+      "status": "unread",
+      "inboxId" : "inboxes/57fe2450916165b0b8b20111/595df1bc3ff6dd5f64eb167a/595f7e3f3f4f98de237119e6"
+    },
+    {
+      "_id" : "595f7e3f3f4f98de237151e8",
+      "_recipient" : "57fe2450916165b0b8b20111",
+      "_user" : "57fe2450916165b0b8b21112",
+      "isActive" : true,
+      "type": "practice",
+      "updatedAt" : "2017-07-07T12:31:49.456Z",
+      "__v" : 0,
+      "createdAt" : "2017-07-07T12:27:43.413Z",
+      "message" : {
+        "content" : "Hello, how are you getting on?",
+        "_user" : "57fe2450916165b0b8b20111",
+        "time" : "1499430709345",
+        "type" : "text"
+      },
+      "status": "unread",
+      "inboxId" : "inboxes/57fe2450916165b0b8b20111/595df1bc3ff6dd5f64eb167a/595f7e3f3f4f98de237119e6"
+    }
+  ]
+}

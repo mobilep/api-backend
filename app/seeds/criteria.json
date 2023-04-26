@@ -1,0 +1,16 @@
+{
+  "model": "models/criteria.model",
+  "collection": "criterias",
+  "data": [
+    {
+      "_id": "574e3a50616165b0b8b20111",
+      "name": "Introduction",
+      "_company": "57fe2450916165b0b8b20111"
+    },
+    {
+      "_id": "574e3a50616165b0b8b20222",
+      "name": "Existing criteria",
+      "_company": "57fe2450916165b0b8b20111"
+    }
+  ]
+}
